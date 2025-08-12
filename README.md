@@ -9,17 +9,17 @@
 ## 🛠 My Tech Stack  
 
 <p align="center">
-  <!-- Shopify -->
-  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="50" height="50"/>
-  <!-- JS -->
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
-  <!-- CSS -->
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
-  <!-- WordPress -->
-  <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50"/>
-</p
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-2C2C2C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
